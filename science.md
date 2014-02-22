@@ -4,9 +4,7 @@ permalink: /science/
 title: Science
 description: "Science. It works!"
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-feature-beach.jpg
 ---
 
 ## Scientific publications
