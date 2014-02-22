@@ -9,7 +9,7 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-## Scientific Publications
+## Scientific publications
 
 ### Authored
 
@@ -26,3 +26,14 @@ image:
 1. De Kok, S., Meijer, J., van Loosdrecht, M. C. M., & Kleerebezem, R. (2013). Impact of dissolved hydrogen partial pressure on mixed culture fermentations. Applied Microbiology and Biotechnology, 97(6), 2617–2625. doi:[10.1007/s00253-012-4400-x](http://dx.doi.org/10.1007/s00253-012-4400-x) **(editing and proofreading)**
 2. Van den Brink, J., Akeroyd, M., van der Hoeven, R., Pronk, J. T., de Winde, J. H., & Daran-Lapujade, P. (2009). Energetic limits to metabolic flexibility: responses of *Saccharomyces cerevisiae* to glucose–galactose transitions. Microbiology, 155(4), 1340–1350. doi:[10.1099/mic.0.025775-0](http://dx.doi.org/10.1099/mic.0.025775-0) **(assistence with experimental work)**
 3. Harris, D. M., van der Krogt, Z. A., Klaassen, P., Raamsdonk, L. M., Hage, S., van den Berg, M. A., … Daran, J.-M. (2009). Exploring and dissecting genome-wide gene expression responses of *Penicillium chrysogenum* to phenylacetic acid consumption and penicillinG production. BMC Genomics, 10(1), 75. doi:[10.1186/1471-2164-10-75](http://dx.doi.org/10.1186/1471-2164-10-75) **(assistence with bioinformatics analysis)**
+
+### Journals for which I have refereed
+
+* [Microbial Cell Factories](http://www.microbialcellfactories.com/) (6 articles)
+* [Applied and Environmental Microbiology](http://aem.asm.org/) (2)
+* [Biotechnology for Biofuels](http://www.biotechnologyforbiofuels.com/) (2)
+* [Applied Microbiology and Biotechnology](http://link.springer.com/journal/253) (1)
+* [Chemical Engineering Communications](http://www.tandfonline.com/loi/gcec20) (1)
+* [The ISME Journal](http://www.nature.com/ismej) (1)
+* [PLOS ONE](http://www.plosone.org/) (1)
+* [SpringerPlus](http://www.springerplus.com/) (1)
