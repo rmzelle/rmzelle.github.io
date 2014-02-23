@@ -6,19 +6,6 @@ image:
   feature: texture-feature-beach.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Welcome to my personal website. Disappointed by our heavy reliance on information silos like Twitter, Facebook, and LinkedIn, I decided to (finally) register my own domain and stake out a place on the internet. Long live the Indie Web!
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Since 2006 I've been active in my professional life as a researcher in the field of metabolic engineering and microbial physiology, with a heavy focus on *Saccharomyces cerevisiae* (or baker's yeast). During my PhD studies I encountered the reference manager Zotero, and after making some modest contributions, I quickly rolled into development of the Citation Style Language (CSL), another open source project. I played an important role in its 1.0 and 1.0.1 releases, and continue to shepherd the project as my spare time allows.
