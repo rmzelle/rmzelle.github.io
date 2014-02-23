@@ -17,7 +17,7 @@ To get things started, I made a comparison between the current interface of Vali
 
 <figure class="half">
 	<a href="/images/validator-original.png"><img src="/images/validator-original.png"></a>
-	<a href="/images/validator-customized"><img src="/images/validator-customized"></a>
+	<a href="/images/validator-customized.png"><img src="/images/validator-customized.png"></a>
 	<figcaption>Original (left) and mockup (right) layout for Validator.nu</figcaption>
 </figure>
 
