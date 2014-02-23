@@ -16,8 +16,8 @@ High on my wish list is a dedicated CSL validator more flexible than csl-validat
 To get things started, I made a comparison between the current interface of Validator.nu, and a simplified interface for CSL:
 
 <figure class="half">
-	<img src="/images/validator-original.png">
-	<img src="/images/validator-customized.png">
+	<a href="/images/validator-original.png"><img src="/images/validator-original.png"></a>
+	<a href="/images/validator-customized"><img src="/images/validator-customized"></a>
 	<figcaption>Original (left) and mockup (right) layout for Validator.nu</figcaption>
 </figure>
 
