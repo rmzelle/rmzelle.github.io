@@ -2,7 +2,6 @@
 layout: page
 permalink: /science/
 title: Science
-description: "Science. It works!"
 image:
   feature: texture-feature-beach.jpg
 ---
