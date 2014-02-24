@@ -11,7 +11,7 @@ Validating CSL styles and locale files against the CSL schema plays a very impor
 
 [Validator.nu](http://validator.nu/), based on the *Jing* XML validator, is a general HTML/XML validator. It has convenient options for validating files by URL, via upload, or via copy and paste. It also allows for customization of the schema used for validation. However, users always need to make sure the correct settings are used, and the validator always produces some warnings that are irrelevant to the user.
 
-High on my wish list is a dedicated CSL validator more flexible than csl-validator.js, and less cluttered than Validator.nu. Since Validator.nu offers a RESTful interface, it seems relatively easy to create a customized frontend for this validator. If this sounds like a fun project, please drop me a line on Twitter or via the contact form on [CitationStyles.org](http://citationstyles.org/contact).
+High on my wish list is a dedicated CSL validator more flexible than csl-validator.js, and less cluttered than Validator.nu. Since Validator.nu [offers](http://about.validator.nu/#api) a RESTful interface, it seems relatively easy to create a customized frontend for this validator. If this sounds like a fun project, please drop me a line on Twitter or via the contact form on [CitationStyles.org](http://citationstyles.org/contact).
 
 To get things started, I made a comparison between the current interface of Validator.nu, and what I imagine a simplified interface for CSL to look like:
 
