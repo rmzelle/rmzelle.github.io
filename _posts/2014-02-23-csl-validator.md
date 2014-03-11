@@ -16,10 +16,23 @@ High on my wish list is a dedicated CSL validator more flexible than csl-validat
 To get things started, I made a comparison between the current interface of Validator.nu, and what I imagine a simplified interface for CSL to look like:
 
 <figure class="half">
-	<a href="/images/validator-original-large.png"><img src="/images/validator-original.png"></a>
+    <a href="/images/validator-original-large.png"><img src="/images/validator-original.png"></a>
 	<a href="/images/validator-customized-large.png"><img src="/images/validator-customized.png"></a>
 	<figcaption>Original (left) and mockup (right) layout for Validator.nu</figcaption>
 </figure>
+
+The changes would be:
+
+- hide the "Encoding" field (keep default value of "As set by the server/page")
+- change the "Schemas" text field, which currently accepts a URL to a schema, to a dropdown menu where the user can simply select the desired CSL schema version
+- hide the "Preset" field (keep default value of "None")
+- hide the "Parser" field (change value to "XML; don't load external entities")
+- hide the "XLMNS Filter" field
+- hide the "Be lax about HTTP Content-Type" checkbox (check)
+- hide the "Show Image Report" checkbox (keep unchecked)
+- hide the "Show Source" checkbox (check)
+- hide the "Show Outline" checkbox (keep unchecked)
+- hide any warnings in the validation output
 
 We could host the validator via GitHub Pages, and link to it from validator.citationstyles.org.
 
