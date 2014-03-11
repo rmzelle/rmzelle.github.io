@@ -27,7 +27,7 @@ The changes would be:
 - change the "Schemas" text field, which currently accepts a URL to a schema, to a dropdown menu where the user can simply select the desired CSL schema version
 - hide the "Preset" field (keep default value of "None")
 - hide the "Parser" field (change value to "XML; don't load external entities")
-- hide the "XLMNS Filter" field
+- hide the "XMLNS Filter" field
 - hide the "Be lax about HTTP Content-Type" checkbox (check)
 - hide the "Show Image Report" checkbox (keep unchecked)
 - hide the "Show Source" checkbox (check)
