@@ -3,6 +3,8 @@ layout: post
 title: "Quest for a custom CSL validator"
 ---
 
+*Update October 2014. I developed the envisioned CSL validator frontend myself. It is live at http://validator.citationstyles.org/.*
+
 If you have experience with RESTful APIs, I have a job for you :).
 
 Validating CSL styles and locale files against the CSL schema plays a very important role in our quality control process. Currently we [point](https://github.com/citation-style-language/styles/wiki/Validation) users to one of two sites:
