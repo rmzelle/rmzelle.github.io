@@ -3,7 +3,7 @@ layout: post
 title: "Quest for a custom CSL validator"
 ---
 
-*Update October 2014. I developed the envisioned CSL validator frontend myself. It is live at http://validator.citationstyles.org/.*
+*Update October 2014. I developed the envisioned CSL validator frontend myself. It is live at [http://validator.citationstyles.org/](http://validator.citationstyles.org/).*
 
 If you have experience with RESTful APIs, I have a job for you :).
 
