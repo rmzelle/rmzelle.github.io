@@ -26,11 +26,13 @@ image:
 
 ### Journals for which I have refereed
 
-* [Microbial Cell Factories](http://www.microbialcellfactories.com/) (8 articles)
+* [Microbial Cell Factories](http://www.microbialcellfactories.com/) (9 manuscripts)
 * [Applied and Environmental Microbiology](http://aem.asm.org/) (2)
 * [Applied Microbiology and Biotechnology](http://link.springer.com/journal/253) (2)
 * [Biotechnology for Biofuels](http://www.biotechnologyforbiofuels.com/) (2)
+* [BMC Microbiology](http://www.biomedcentral.com/bmcmicrobiol) (1)
 * [Chemical Engineering Communications](http://www.tandfonline.com/loi/gcec20) (1)
+* [Current Opinion in Biotechnology](http://www.sciencedirect.com/science/journal/09581669) (1)
 * [FEMS Yeast Research](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291567-1364) (1)
 * [The ISME Journal](http://www.nature.com/ismej) (1)
 * [PLOS ONE](http://www.plosone.org/) (1)
