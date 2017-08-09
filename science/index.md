@@ -26,7 +26,7 @@ image:
 
 ### Peer review
 
-As of August 2017, I have refereed a total of 35 manuscripts for the following journals:
+As of August 2017, I have refereed a total of 35 manuscripts for the following journals (see also [my Publons profile](https://publons.com/a/1286929/)):
 
 * [Microbial Cell Factories](http://www.microbialcellfactories.com/) (9 manuscripts)
 * [Biotechnology for Biofuels](http://www.biotechnologyforbiofuels.com/) (8)
